@@ -2670,8 +2670,8 @@ lodash.words@^3.0.0:
     lodash._root "^3.0.0"
 
 lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4:
-  version "4.17.5"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
 
 loglevel@^1.4.1:
   version "1.6.1"
@@ -4526,9 +4526,11 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vu@^0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/vu/-/vu-0.0.0.tgz#27f40c2af8222063789580bb6c67cf662b61f0b0"
+vue-cropper@^0.3.1:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/vue-cropper/-/vue-cropper-0.3.9.tgz#cdc39dd835f6c540d85b6eee59203c9ac364fe89"
+  dependencies:
+    exif-js "^2.3.0"
 
 vue-hot-reload-api@^2.2.0:
   version "2.3.0"
